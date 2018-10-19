@@ -101,9 +101,9 @@ namespace Visitor
 		}
 	}
 
-	class Program
+	class Program11
 	{
-		static void Main(string[] args)
+		static void Main11(string[] args)
 		{
 			var structure = new Bank();
 			structure.Add(new Person { Name = "Иван Алексеев", Number = "82184931" });
